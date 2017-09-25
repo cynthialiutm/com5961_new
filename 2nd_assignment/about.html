@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>ABOUT</title>
+<link rel="stylesheet" type="text/css" href="style.css" media="all">
+</head>
+
+	</head>
+
+
+	<body>
+		<header class="banner">
+			<h1>ABOUT</h1>
+			<p>Local and National news</p>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="home.html" id="button1">Home</a></li>
+				
+				<li ><a href="archives.html" id="button2">Archives</a></li>
+				<li id="button3"><a href="about.html">About</a></li>>
+			</ul>
+		</nav>
+
+		<main>
+				<section>
+				<h2 id="test">Local News</h2>
+				<article>
+					<header>
+					<h3>Local news 1</h3>
+					<p>date, author</p>
+					</header>
+					<p>This is the story text</p>
+				</article>	
+				<article>
+					<header>
+					<h3>Local News 2</h3>
+					<p>date, author</p>
+					</header>
+					<p>This is the 2nd story text</p>
+				</article>	
+				</section>
+
+
+				<section>
+						<h2 id="test2">National News</h2>
+				<article>
+					<header>
+					<h3>National news 1</h3>
+					<p>byline</p>
+					</header>
+					<p>This is the story text</p>
+				</article>
+				<article>
+				<header>
+				<h3>National news 2</h3>
+				<p>date, author</p>
+				</header>
+				<p>This is the 2nd story text</p>
+				</article>
+				</section>
+			</main>
+
+			<aside id="aside">
+			<h2>Be a news reporter</h2>
+			<p>send us a message</p>
+
+			</aside>
+
+			<footer>
+			<p>footer information</p>
+
+
+			</footer>
+<script>
+document.getElementById("button1").onmouseover = function() {mouseOver1()};
+document.getElementById("button1").onmouseout = function() {mouseOut1()};
+
+function mouseOver1() {
+    document.getElementById("test").style.color = "red";
+}
+
+function mouseOut1() {
+	document.getElementById("test").style.color = "black";
+}
+
+document.getElementById("button2").onmouseover = function() {mouseOver2()};
+document.getElementById("button2").onmouseout = function() {mouseOut2()};
+
+function mouseOver2() {
+    document.getElementById("test2").style.color = "red";
+}
+
+function mouseOut2() {
+	document.getElementById("test2").style.color = "black";
+}
+
+document.getElementById("button3").onmouseover = function() {mouseOver3()};
+document.getElementById("button3").onmouseout = function() {mouseOut3()};
+
+function mouseOver3() {
+    document.getElementById("aside").style.backgroundColor = "yellow";
+}
+
+function mouseOut3() {
+	document.getElementById("aside").style.backgroundColor = "#bbbbbb";
+}
+
+</script>
+		
+
+	</body>
+</html>
