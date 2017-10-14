@@ -1,0 +1,109 @@
+﻿id,catergory,name-en,name-zh-hk,address-en,address-zh-hk,phone-number,fax-number,url-en,locations_Id
+802,food-courts, Silvercord , 新港中心 ," B/F, 30 Canton Road, Tsimshatsui ", 尖沙咀廣東道30號 ,,,,0
+799,food-courts, Plaza Hollywood , 荷里活廣場 ," L3, 3 Lung Poon Street, Diamon Hill ", 鑽石山龍蟠街3號 ,21188811,21188078,www.plazahollywood.com,1
+797,food-courts, Olympian City , 奧海城 ," G/F, 11 Hoi Fai Road,Yai Kok Tsui ", 大角咀海輝道11-18號 ,22714168,,www.olympiancity.com.hk,2
+788,food-courts, Metropolis , 都會商場 ," 6 Metropolis Drive, Hung Hom ", 紅磡都會道 ,21210619,21210608,www.fortunemalls.com.hk/eng/,3
+795,arts-and-performance-centres, Ko Shan Theatre , 高山劇場 ," 77 Ko Shan Road Park, Hung Hum, Kowloon, ", 紅磡高山道77號 ,27409222,27814783,www.lcsd.gov.hk/kst,4
+794,arts-and-performance-centres, Hong Kong Cultural Centre , 香港體育館 ," 10 Salisbury Road, Tsim Sha Tsui, Kowloon ", 紅磡暢運道9號 ,23557234,23632549,www.lcsd.gov.hk/CE/Entertainment/Stadia/HKC/index.php,5
+793,arts-and-performance-centres, Hong Kong Cultural Centre , 香港文化中心 ," 10 Salisbury Road, Tsim Sha Tsui, Kowloon ", 尖沙咀梳士巴利道10號 ,27342009,27390066,www.lcsd.gov.hk/CE/CulturalService/HKCC/index.html,6
+792,hong-kong-convention-and-exhibition-centres, Kowloonbay International Trade & Exhibition Centre , 九龍灣國際展貿中心 ," 1 Trademart Driver, Kowloon Bay, Kowloon ", 展貿徑1號 ,26202222,,www.kitec.com.hk/eng/index.php,7
+786,food-courts, Harbour City , 海港城 ," L3, 3 - 27 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道 ,21188666,,www.harbourcity.com.hk,8
+783,food-courts, Grand Century Place , 新世紀廣場 ," L5, 193 Prince Road West, Mongkok ", 旺角太子道西193號 ,23970790,23810365,www.grandcenturyplace.com.hk,9
+784,shopping-malls, Wong Tai Sin Shopping Centre , 黃大仙中心 ," 103 Ching Tak Street, Wong Tai Sin ", 黃大仙正德街103號 ,23207582,23222739,www.thelinkreit.com/tc/prop/prop_detail.asp?pid=19,10
+782,shopping-malls, Whampoa World , 黃埔新天地 ," Whampoa Garden, Hung Hom ", 紅磡黃埔花園 ,21218344,,www.whampoaworld.com,11
+780,food-courts, Festival Walk , 又一城 ," L2, 80 Tat Chee Avenue, Kowloon Tong ", 九龍塘達之路80號 ,28442222,22658112,www.festivalwalk.com,12
+781,shopping-malls, Tsim Sha Tsui Centre , 尖沙咀中心 ," 66 & 68 Mody Road, Tsim Sha Tsui ", 尖東麼地道66及68號 ,27215489,,www.tsimshatsuicentre.com.hk/index_en.asp,13
+779,shopping-malls, Telford Plaza Phase II , 德福廣場二期 ," 33 Wai Yim Street, Kowloon Bay, ", 九龍灣偉業街33號 ,27500877,27516725,www.telford-plaza.com,14
+770,food-courts, Dragon Center , 西九龍中心 ," L8, 37K Yen Chow Street, Sham Shui Po ", 深水埗欽州街37號K ,23603565,23605307,www.dragoncentre.com.hk,15
+778,shopping-malls, Telford Plaza Phase I , 德福廣場一期 ," 33 Wai Yim Street, Kowloon Bay, ", 九龍灣偉業街33號 ,27500877,27516725,www.telford-plaza.com,16
+777,shopping-malls," Sun Arcade, The ", 新太陽廣場 ," 28 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道28號 ,27358702,,www.thesunarcade.com.hk,17
+776,shopping-malls, Silvercord , 新港中心 ," 30 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道30號	,,,,18
+775,shopping-malls, Plaza Hollywood , 荷里活廣場 ," 3 Lung Poon Street, Diamond Hill ", 鑽石山龍蟠街3號 ,21188811,21188078,www.plazahollywood.com,19
+774,shopping-malls, Pioneer Centre , 始創中心 ," 750-758 Nathan Road, Mong Kok ", 旺角彌敦道750－758號 ,97277000,,www.bighongkong.com/travel/mongkok,20
+773,shopping-malls, Park Lane , 栢麗購物大道 ," 111-181 Nathan Rd, Tsim Sha Tsui ", 尖沙咀彌敦道 ,,,,21
+772,shopping-malls, Olympian City , 奧海城 ," 11 Hoi Fai Road, West Kowloon ", 大角咀海輝道11-18號 ,22714168,,www.olympiancity.com.hk,22
+771,shopping-malls, Ocean Terminal , 海運大廈 ," 3 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道 ,21188666,,www.harbourcity.com.hk,23
+769,shopping-malls, Ocean Centre , 海洋中心 ," 3 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道 ,21188666,,www.harbourcity.com.hk,24
+768,shopping-malls, New World Centre , 新世界中心 ," 20 Salisbury Road, Tsim Sha Tsui ", 尖沙咀梳士巴利道20號 ,27348800,23695284,www.nwc.com.hk,25
+767,shopping-malls, Miramar Shopping Centre , 美麗華商場 ," 132 Nathan Road, Tsim Sha Tsui ", 尖沙咀彌敦道132號 ,23155555,27225555,www.miramarshoppingcentre.com,26
+766,shopping-malls," Metropolis, The ", 都會商場 ," 6 Metropolis Drive, Hung Hom ", 紅磡都會道 ,21210619,21210608,www.ckharcades.com/ck_eng/EAI/METROPOLIS/metropolis.htm,27
+765,shopping-malls, MegaBox , MegaBox ," 38 Wang Chui Road, Kowloon Bay ", 九龍灣宏照道38號 ,29893000,,www.megabox.com.hk,28
+764,shopping-malls, Langham Place , 朗豪坊 ," 555 Shanghai Street, Mongkok ", 旺角亞皆老街8號 ,35202800,,www.langhamplace.com.hk,29
+763,shopping-malls, KCP , 九龍城廣場 ," 128 Carpenter Road, Kowloon City ", 九龍城賈炳達道128號 ,23833608,27180796,www.kcp.hk,30
+762,shopping-malls, Harbour City , 海港城 ," 3 - 27 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道 ,21188666,,www.harbourcity.com.hk,31
+761,shopping-malls, Grand Century Place , 新世紀廣場 ," 193 Prince Edward Rd. West, Mong Kok ", 旺角太子道西193號 ,23970790,23810365,place.com.hk,32
+760,shopping-malls, Gateway Arcade , 港威商場 ," 3 - 27 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道 ,21188666,,www.harbourcity.com.hk,33
+759,shopping-malls, Festival Walk , 又一城 ," 80 Tat Chee Avenue, Kowloon Tong ", 九龍塘達之路80號 ,28442222,22658112,www.festivalwalk.com,34
+758,shopping-malls, Empire Centre , 帝國中心 ," 66 & 68 Mody Road, Tsim Sha Tsui ", 尖沙咀麼地道66-68號 ,27215489,,www.tsimshatsuicentre.com.hk/index_en.asp,35
+757,shopping-malls, Elements , 圓方 ," 1 Austin Road West, Tsim Sha Tsui ", 尖沙咀柯士甸道西一號 ,27355234,,www.elementshk.com,36
+756,shopping-malls, Dragon Center , 西九龍中心 ," 37K Yen Chow St, Shum Shui Po ", 深水埗欽州街37號K ,23603565,23605307,www.dragoncentre.com.hk,37
+755,shopping-malls, China Hong Kong City , 中港城 ," 33 Canton Road, Tsim Sha Tsui ", 尖沙咀廣東道33號 ,27360222,31190338,www.chkc.com.hk,38
+754,shopping-malls, APM , APM ," 418 Kwun Tong Rd, Kwun Tong ", 觀塘道418號創紀之城5期 ,22670500,22670055,www.apm-millenniumcity.com/,39
+753,hong-kong-convention-and-exhibition-centres, Hong Kong Science and Technology Parks , 香港科技園 – 科學園 ,"\n1 Science Park East Avenue Hong Kong Science Park, Shatin, New Territories\n", 白石角科技大道東1號 ,26398000,26558668,www.hkstp.org/HKSTPC/en_html/en_index.jsp,40
+752,hong-kong-convention-and-exhibition-centres, Asia World-Expo , 亞洲國際博覽館 ,"AsiaWorld-Expo, Hong Kong International Airport, Lantau, Hong Kong", 大嶼山香港國際機場 ,36068828,36068889,www.asiaworld-expo.com,41
+751,arts-and-performance-centres, Sha Tin Town Hall , 沙田大會堂 ," 1 Yuen Wo Road, Sha Tin, N.T. ", 沙田源禾路1號 ,26942570,26934878,www.lcsd.gov.hk/CE/CulturalService/Shatin,42
+740,shopping-malls, Tuen Mun Town Plaza , 屯門市廣場 ," 1 Tuen Shun Street, ", 屯門屯順街1號 ,24507782,,www.tmtp.com.hk,43
+739,shopping-malls, Skyplaza , 翔天廊 ,"\n1 Sky City Road East, Hong Kong International Airport\n", 大嶼山香港國際機場二號客運大樓 ,21833561,,www.hongkongairport.com,44
+738,shopping-malls, New Town Plaza , 新城市廣場 ," 10 Shatin MainStreet, Shatin ", 沙田沙田正街10號 ,26995992,26931096,www.newtownplaza.com.hk,45
+723,shopping-malls, Metroplaza , 新都會廣場 ," 223 Hing Fong Road, Kwai Fong, Tsuen Wan ", 葵芳興芳路223號 ,24296500,24181387,www.metroplaza.com.hk,46
+722,shopping-malls, Metro City Phase II , 新都城II期 ," 8 Yan King Road, Tseung Kwan O ", 將軍澳欣景路8號 ,31943200,31943220,www.hld.com/english/property/locallease/arcade/kowloon/metroplz/index.htm,47
+721,shopping-malls, Maritime Square , 青衣城 ," 33 Tsing King Road, Tsing Yi, N.T. ", 青衣青敬路33號 ,24499013,24490013,www.maritimesquare.com,48
+720,shopping-malls, Hong Kong Gold Coast Piazza , 黃金海岸購物商場 ,"1/F Gold Coast Piazza, 1 Castle Peak Road, Castle Peak Bay", 屯門青山公路1號 ,24526566,24400115,www.goldcoastpiazza.com.hk,49
+718,food-courts, APM , APM ," L1, 418 Kwun Tong Road, Kwun Tong ", 觀塘道418號創紀之城5期 ,22670500,22670055,www.apm-millenniumcity.com,50
+719,shopping-malls, HomeSquare , 新城市中央廣場 ," 138 Shatin Rural Committee Road, Shatin ", 沙田鄉事會路138號 ,26340666,,www.homesquare.com.hk,51
+717,shopping-malls, East Point City , 東港城 ," 8 Chung Wa Road, Tseung Kwan O Town Centre ", 將軍澳重華路8號 ,27039346,27039371,www.eastpointcity.com.hk,52
+716,shopping-malls, Discovery Park , 愉景新城 ," 398 Castle Peak Road, Tsuen Wan, NT ", 荃灣青山公路398號 ,29402228,29402890,www.discoverypark.com.hk,53
+715,shopping-malls, Citywalk , 荃新天地 ," 1 Yeung Uk Road, Tsuen Wan ", 荃灣楊屋道1號 ,39265700,,www.citywalk.com.hk,54
+714,shopping-malls, Citygate Outlets , 東薈城名店倉 ," 20 Tat Tung Road, ", 東涌達東路20號 ,21092933,21096607,www.citygateoutlets.com.hk,55
+713,food-courts, Skyplaza , 翔天廊 ,"\n1 Sky City Road East, Hong Kong International Airport,\n", 大嶼山香港國際機場二號客運大樓 ,21833561,,www.hongkongairport.com,56
+712,food-courts, New Town Plaza , 新城市廣場 ," 10 Shatin Centre Street, Shatin ", 沙田沙田正街10號 ,26995992,26931096,www.newtownplaza.com.hk,57
+711,food-courts, Discovery Park , 愉景新城 ," L1, 398 Castle Peak Road, Tsuen Wan ", 荃灣青山公路398號 ,29402228,29402890,www.discoverypark.com.hk,58
+710,food-courts, Citygate Outlets , 東薈城名店倉 ," L2, 20 Tat Tung Road, Tung Chung ", 東涌達東路20號 ,21092933,21096607,www.citygateoutlets.com.hk,59
+630,computer-centre, Wan Chai Computer Center , 灣仔電腦城 ," 130 Hennessy Road, Wanchai ", 灣仔軒尼詩道130號 ,28347685,,,60
+629,computer-centre, Windsor House: Computer Mall , 皇室堡電腦城 ," 10-12/F. 311 Gloucester Road, Causeway Bay ", 銅鑼灣告士打道 皇室大廈10樓至12樓 ,28956796,,,61
+628,computer-centre, 298 Computer Zone 298 , 298電腦特區 ," Hennessy Road, Wanchai ", 灣仔軒尼詩道298號 ,25729009,,,62
+624,shopping-malls, World Trade Centre , 世貿中心 ," 311 Gloucester Road, Causeway Bay ", 銅鑼灣告士打道280號 ,25764121,25776391,www.wtcmore.com,63
+623,shopping-malls, Windsor House , 皇室堡 ," 311 Gloucester Road, Causeway Bay ", 銅鑼灣告士打道311號 ,28950668,28811214,www.windsorhouse.hk,64
+622,shopping-malls, Western Market , 西港城 ," 323 Des Voeux Road C, Central ", 上環干諾道中323號 ,60292675,26200108,www.westernmarket.com.hk,65
+621,shopping-malls, United Centre , 統一中心 ," 95 Queensway, Admiralty ", 金鐘金鐘道95號 ,25284570,28610043,,66
+620,shopping-malls, Time Square , 時代廣場 ," 1 Matheson Street, Causeway Bay ", 銅鑼灣勿地臣街1號 ,21188900,21188934,www.timessquare.com.hk,67
+619,shopping-malls, Stanley Plaza , 赤柱廣場 ," Carmel Road, Stanley ", 赤柱佳美道 ,28134623,28139041,www.thelinkreit.com/en/shopping/c_stanley.asp,68
+618,shopping-malls, Shun Tak Centre , 信德中心 ," 200 Connaught Road, Central ", 上環干諾道中200號 ,25476942,28587121,,69
+615,shopping-malls, Queensway Plaza , 金鐘廊 ," 93 Queensway, Admiralty ", 金鐘金鐘道93號 ,25296203,25296207,,70
+614,shopping-malls, Prince’s Building , 太子大廈 ," 1A-3 Des Voeux Road, Central ", 中環德士古道1A-3號 ,25240704,25250776,www.centralhk.com,71
+613,shopping-malls," Peak Tower, The ", 凌霄閣 , 128 Peak Road. Victoria Peak , 山頂山頂道128號 ,28490608,28496237,www.thepeak.com.hk,72
+612,shopping-malls," Peak Galleria, The ", 山頂廣場 , 118 Peak Road. Victoria Peak , 山頂山頂道118號 ,28434113,28495213,www.thepeakgalleria.com,73
+611,shopping-malls, Paradise Mall , 杏花新城 ," 100 Shing Tai Street, Heng Fa Chuen, Chai Wan ", 柴灣杏花邨城泰街100號 ,25951010,25951011,www.paradise-mall.com.hk,74
+610,shopping-malls, Pacific Place , 太古廣場 ," 88 Queensway,Admiralty ", 金鐘金鐘道88號 ,28448900,29189577,www.pacificplace.com.hk,75
+609,shopping-malls, Man Yee Building , 萬宜大廈 ," 60-38 Des Voeux Road, Central ", 中環德輔道中60-68號 ,,,,76
+608,shopping-malls, Lee Theatre Plaza , 利舞臺廣場 ," 99 Percival Street, Causeway Bay ", 銅鑼灣波斯富街99號 ,25042781,25042032,www.leegardens.com.hk,77
+607,shopping-malls," Lee Gardens, The ", 利園 ," 33 Hysan Avenue, Causeway Bay ", 銅鑼灣希慎道33號 ,29075772,,www.leegardens.com.hk,78
+606,shopping-malls," Landmark, The ", 置地廣場 ," 11 Pedder Street, Central ", 中環畢打街11號 ,25254142,25220351,www.hkland.com/commercial_property/hongkong_properties/thelandmark/index.html,79
+604,shopping-malls, Laforet , 東角 ," 24-26 East Point Rd, Causeway Bay ", 銅鑼灣東角道24-26號 ,,,www.laforet.hk,80
+603,shopping-malls, Island Beverley , 金百利 ," 1 Great George Street, Causeway Bay ", 銅鑼灣記利佐治街1號 ,28522808,,,81
+602,shopping-malls, IFC Mall , 國際金融中心商場 ," 1 Harbour View Street, Central ", 中環金融街8號 ,21473538,21473558,www.ifc.com.hk,82
+600,shopping-malls, Cityplaza , 太古城中心 第1、2期 ," 18 Taikoo Shing Rd, Taikoo Shing ", 鰂魚涌太古城道18號 ,25688665,25602151,www.cityplaza.com,83
+599,shopping-malls, Causeway Place , 銅鑼灣地帶 ," 2-10 Great George Street, Causeway Bay ", 銅鑼灣記利佐治街2-10號 ,,,www.causewayplace.hk,84
+598,shopping-malls, Causeway Bay Plaza Phase 2 , 銅鑼灣廣場二期 ," 463-483 Lockhart Rd, Causeway Bay ", 銅鑼灣駱克道463-483號 ,,,,85
+595,shopping-malls, Causeway Bay Plaza Phase 1 , 銅鑼灣廣場一期 ," 489 Hennessy Road, Causeway Bay ", 銅鑼灣軒尼斯道489號 ,,,,86
+594,shopping-malls, Alexandra House , 歷山大廈 ," 18 Chater Road, Central ", 中環遮打道18號 ,,,www.hkland.com/commercial_property/hongkong_properties/alexandrahouse/index.html,87
+593,shopping-malls, Admiralty Centre , 海富中心 ," 18 Harcourt Road, Central ", 金鐘夏愨道18號 ,25284086,28654844,www.mtr.com.hk/eng/properties/urban_lines_admiraltycentre.html,88
+592,food-courts, Times Square , 時代廣場 ," B/F, 1 Matheson Street, Causeway Bay ", 銅鑼灣勿地臣街1號 ,21188900,21188934,www.timessquare.com.hk,89
+591,food-courts, Cityplaza , 太古城中心 ," Phase 1,2 3/F, 18 Taikoo Shing Road, Taikoo Shing ","\n(English) Phase 1,2 3/F, 18 Taikoo Shing Road, Taikoo Shing\n",25688665,25602151,www.cityplaza.com/chi/default.htm,90
+590,food-courts, Admiralty Centre , 海富中心 ," 2/F, 18 Harcourt Road, Admiralty ", 金鐘夏慤道18號 ,25284086,28654844,,91
+291,computer-centre, New Capital Computer Plaza , 新高登電腦商場 ," 85-89 Un Chau Street, Sham Shui Po ", 深水埗元州街85號 ,27083886,27083886,,92
+290,computer-centre, Golden Computer Arcade , 黃金電腦商場 ," G/F & B/F, 146-152 Fuk Wa Street, Sham Shui Po ", 深水埗福華街146-152號，G/F & B/F ,27292101,23866010,,93
+289,computer-centre, Golden Shopping Center , 高登電腦中心 ," 1/F, 146-152 Fuk Wa Street, Sham Shui Po ", 深水埗福華街146-152號1樓 ,23868137,21949939,,94
+288,computer-centre, Star Computer City , 星光電腦城 ," 2/F.,3 Salisbury Road, Tsim Sha Tsui ", 尖沙咀梳士巴利道3號星光行2樓 ,27362608,27362606,,95
+287,computer-centre, Mong Kok Computer Center , 旺角電腦中心 ," 8, Nelson Street, Mongkok ", 旺角奶路臣街8號 ,,,,96
+286,computer-centre, Wan Chai Computer Center , 灣仔電腦城 ," 130 Hennessy Road, Wanchai ", 灣仔軒尼詩道130號 ,28347685,,,97
+285,computer-centre, Windsor House: Computer Mall , 皇室堡電腦城 ," 10-12/F. 311 Gloucester Road, Causeway Bay  ", 銅鑼灣告士打道皇室大廈10樓至12樓 ,28956796,,,98
+511,art-performance-center, Sha Tin Town Hall , 沙田大會堂 ," 1 Yuen Wo Road, Sha Tin, N.T. ", 沙田源禾路1號 ,26942570,26934878,www.lcsd.gov.hk/CE/CulturalService/Shatin,99
+510,art-performance-center, Ko Shan Theatre , 高山劇場 ," 77 Ko Shan Road Park, Hung Hum, Kowloon ", 紅磡高山道77號 ,27409222,27814783,www.lcsd.gov.hk/kst,100
+509,art-performance-center, Hong Kong Coliseum , 香港體育館 ," 9 Cheong Wan Road, Hunghom, Kowloon ", 紅磡暢運道9號 ,23557234,23632549,www.lcsd.gov.hk/CE/Entertainment/Stadia/HKC/index.php,101
+508,art-performance-center, Hong Kong Cultural Centre , 香港文化中心 ," 10 Salisbury Road, Tsim Sha Tsui, Kowloon ", 尖沙咀梳士巴利道10號 ,27342009,27342009,www.lcsd.gov.hk/CE/CulturalService/HKCC/index.html,102
+507,art-performance-center, Hong Kong Academy for Performing Arts , 香港演藝學院 ," 1 Gloucester Road, Wanchai, HK ", 灣仔告士打道1號 ,25848633,28241071,www.hkapa.edu,103
+506,art-performance-center, Hong Kong City Hall , 香港大會堂 ," 5 Edinburgh Place, Central, HK ", 中環愛丁堡廣場5號 ,29212840,25245898,www.cityhall.gov.hk/index.php,104
+505,art-performance-center, Hong Kong Stadium , 香港大球場 ," 55 Eastern Hospital Road,So Kon Po, HK ", 銅鑼灣掃桿埔東院道55號 ,28957895,28957962,www.lcsd.gov.hk/stadium/hks,105
+504,art-performance-center, Queen Elizabeth Stadium , 伊利沙伯體育館 ," 18 Oi Kwan Road, Wanchai, HK ", 灣仔愛群道18號 ,25911346,28035794,www.lcsd.gov.hk/CE/Entertainment/Stadia/QE/index.php,106
+503,art-performance-center, Sheung Wan Civic Centre , 上環文娛中心 ,"5/F Sheung Wan Municipal Services Building, 345 Queen's Rd, HK", 上環皇后大道中345號上環市政大廈5樓 ,28532668,25439771,www.lcsd.gov.hk/CE/CulturalService/SWCC/index-new.html,107
